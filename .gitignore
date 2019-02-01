@@ -48,3 +48,9 @@ compile_commands.json
 *creator.user*
 
 #ignore file by GM 
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.Debug
+*.Release
